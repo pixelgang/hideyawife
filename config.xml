@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" id="com.uud.wife" version="1.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" id="com.uud.wife" version="1.1">
 
 	<name>Hide ya Wife</name>
-	<description>UnUrbanTech</description>
-	<author href="www.unurbantech.com" email="support@unurbantech.com">Gerrell</author>
+	<description>Watch out for the zombies</description>
+	<author href="www.pixelgangstudios.com" email="support@pixelgangstudios.com">Pixel Gang Studios</author>
 
 	<icon src="icon-128.png" width="128" height="128" />
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
